@@ -1,5 +1,7 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Webpack + Animations
+Built based on the work of Bruno Simon and Lewy Blue!
+- https://threejs-journey.xyz/
+- https://discoverthreejs.com/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
