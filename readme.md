@@ -1,4 +1,4 @@
-# Webpack + Animations
+# Webpack + Imported Models + Animations
 Built based on the work of Bruno Simon and Lewy Blue!
 - https://threejs-journey.xyz/
 - https://discoverthreejs.com/
