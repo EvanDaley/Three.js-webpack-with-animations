@@ -4,7 +4,8 @@
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "ship": "npm run build && npm run deploy"
   },
   "dependencies": {
     "@babel/core": "^7.13.1",
