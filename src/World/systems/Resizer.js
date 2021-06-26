@@ -16,6 +16,8 @@ class Resizer {
       setSize(container, camera, renderer);
       // perform any custom actions
       this.onResize();
+
+      console.log("HERE")
     });
   }
 

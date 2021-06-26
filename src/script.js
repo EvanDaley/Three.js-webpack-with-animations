@@ -1,3 +1,4 @@
+import './style.css'
 import { World } from './World/World.js';
 
 async function main() {
